@@ -1,3 +1,17 @@
 body{
-    background: #BDBDBD;
+    background: #white;
+}
+navbar{
+    background-color: #343a40;
+}
+.tagline {
+    background: url('../img/bg.jpg') no-repeat center center;
+    background-size:cover;
+    width: 100%;
+    height: 400px;
+}
+first_heading .rounded-circle {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
 }
